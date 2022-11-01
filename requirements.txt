@@ -1,0 +1,8 @@
+beautifulsoup4
+colorama
+dnspython
+paramiko
+requests
+setuptools
+termcolor
+win_unicode_console
